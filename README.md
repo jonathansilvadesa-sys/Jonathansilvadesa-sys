@@ -2,21 +2,19 @@
 
 ### Analista de Dados focado em BI Estratégico — Power BI, DAX, SQL, ETL e Storytelling com Dados
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jonathansilvadesa-sys&label=Profile views&color=0e75b6&style=flat" alt="jonathansilvadesa-sys" /> </p>
+- 🔭 Atualmente trabalho com análise e visualização de dados
+  
+- 🌱 Atualmente estou aprendendo: **Databricks, Python, PowerApps e PowerAutomate**
 
-- 🔭 Atualmente trabalho com análise e visualização de dados **Portifólio de Projétos: https://github.com/jonathansilvadesa-sys**
+- 👯 Aberto a colaborações em: **Projetos de Dados que utilize: Power BI (DAX/Power Query), SQL e modelagem estrela, KPIs, ETL, storytelling com dados e governança de indicadores**
 
-- 🌱 Atualmente estou aprendendo **Databricks, Python, PowerApps e PowerAutomate**
+- 💬 Me pergunte sobre: **Power BI, SQL, DAX, ETL, storytelling com dados e boas práticas de modelagem**
 
-- 👯 Estou procurando oportunidades de colaboração em **Projetos de Dados que utilize: Power BI (DAX/Power Query), SQL e modelagem estrela, KPIs, ETL, storytelling com dados e governança de indicadores**
+- 📫 Você me acha através do e-mail: **jonathansilvadesa@gmail.com**
 
-- 💬 Me pergunte sobre **Power BI (DAX/Power Query), SQL e modelagem estrela, KPIs, ETL, storytelling com dados e governança de indicadores**
+- 👨‍💻 Todos os meus projetos estão disponíveis em: **[https://github.com/jonathansilvadesa-sys](https://github.com/jonathansilvadesa-sys)**
 
-- 📫 Você me acha através do e-mail **jonathansilvadesa@gmail.com**
-
-- 👨‍💻 Todos os meus projetos estão disponíveis em **[https://github.com/jonathansilvadesa-sys](https://github.com/jonathansilvadesa-sys)**
-
-- 📄 Conheça minhas experiências **[https://drive.google.com/file/d/1A815Q_cjXGstq_SLGXmo5flKtk4bNfnB/view?usp=sharing](https://drive.google.com/file/d/1A815Q_cjXGstq_SLGXmo5flKtk4bNfnB/view?usp=sharing)**
+- 📄 Conheça minhas experiências: **[https://drive.google.com/file/d/1A815Q_cjXGstq_SLGXmo5flKtk4bNfnB/view?usp=sharing](https://drive.google.com/file/d/1A815Q_cjXGstq_SLGXmo5flKtk4bNfnB/view?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
