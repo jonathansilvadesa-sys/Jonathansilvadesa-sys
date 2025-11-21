@@ -1,95 +1,29 @@
-{
-  "version": "1.0.0",
-  "exportedAt": "2025-11-21T19:52:32.837Z",
-  "profile": {
-    "title": "Jonathan Silva de Sá",
-    "subtitle": "Analista de Dados focado em BI Estratégico — Power BI, DAX, SQL, ETL e Storytelling com Dados",
-    "currentWork": "Portifólio de Projétos: https://github.com/jonathansilvadesa-sys",
-    "currentLearn": "Databricks, Python, PowerApps e PowerAutomate",
-    "collaborateOn": "Projetos de Dados que utilize: Power BI (DAX/Power Query), SQL e modelagem estrela, KPIs, ETL, storytelling com dados e governança de indicadores",
-    "helpWith": "",
-    "ama": "Power BI (DAX/Power Query), SQL e modelagem estrela, KPIs, ETL, storytelling com dados e governança de indicadores",
-    "contact": "jonathansilvadesa@gmail.com",
-    "funFact": "",
-    "visitorsBadge": true,
-    "badgeStyle": "flat",
-    "badgeColor": "0e75b6",
-    "badgeLabel": "Profile views",
-    "githubProfileTrophy": false,
-    "githubStats": false,
-    "githubStatsOptions": {
-      "theme": "",
-      "titleColor": "",
-      "textColor": "",
-      "bgColor": "",
-      "hideBorder": false,
-      "cacheSeconds": null,
-      "locale": "en"
-    },
-    "topLanguages": false,
-    "topLanguagesOptions": {
-      "theme": "",
-      "titleColor": "",
-      "textColor": "",
-      "bgColor": "",
-      "hideBorder": false,
-      "cacheSeconds": null,
-      "locale": "en"
-    },
-    "streakStats": false,
-    "streakStatsOptions": {
-      "theme": ""
-    },
-    "devDynamicBlogs": false,
-    "mediumDynamicBlogs": false,
-    "rssDynamicBlogs": false
-  },
-  "links": {
-    "currentWork": "",
-    "collaborateOn": "",
-    "helpWith": "",
-    "portfolio": "https://github.com/jonathansilvadesa-sys",
-    "blog": "",
-    "resume": "https://drive.google.com/file/d/1A815Q_cjXGstq_SLGXmo5flKtk4bNfnB/view?usp=sharing"
-  },
-  "social": {
-    "github": "jonathansilvadesa-sys",
-    "dev": "",
-    "linkedin": "jonathan-de-sa",
-    "codepen": "",
-    "stackoverflow": "",
-    "kaggle": "",
-    "codesandbox": "",
-    "fb": "",
-    "instagram": "",
-    "twitter": "",
-    "dribbble": "",
-    "behance": "",
-    "medium": "",
-    "youtube": "",
-    "codechef": "",
-    "hackerrank": "",
-    "codeforces": "",
-    "leetcode": "",
-    "topcoder": "",
-    "hackerearth": "",
-    "geeks_for_geeks": "",
-    "discord": "",
-    "rssurl": "",
-    "twitterBadge": false
-  },
-  "support": {
-    "buyMeACoffee": ""
-  },
-  "skills": [
-    "figma",
-    "git",
-    "grafana",
-    "mysql",
-    "oracle",
-    "photoshop",
-    "postgresql",
-    "python",
-    "sqlite"
-  ]
-}
+# Hi 👋, I'm Jonathan Silva de Sá
+
+### Analista de Dados focado em BI Estratégico — Power BI, DAX, SQL, ETL e Storytelling com Dados
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jonathansilvadesa-sys&label=Profile views&color=0e75b6&style=flat" alt="jonathansilvadesa-sys" /> </p>
+
+- 🔭 I'm currently working on **Portifólio de Projétos: https://github.com/jonathansilvadesa-sys**
+
+- 🌱 I'm currently learning **Databricks, Python, PowerApps e PowerAutomate**
+
+- 👯 I'm looking to collaborate on **Projetos de Dados que utilize: Power BI (DAX/Power Query), SQL e modelagem estrela, KPIs, ETL, storytelling com dados e governança de indicadores**
+
+- 💬 Ask me about **Power BI (DAX/Power Query), SQL e modelagem estrela, KPIs, ETL, storytelling com dados e governança de indicadores**
+
+- 📫 How to reach me **jonathansilvadesa@gmail.com**
+
+- 👨‍💻 All of my projects are available at **[https://github.com/jonathansilvadesa-sys](https://github.com/jonathansilvadesa-sys)**
+
+- 📄 Know about my experiences **[https://drive.google.com/file/d/1A815Q_cjXGstq_SLGXmo5flKtk4bNfnB/view?usp=sharing](https://drive.google.com/file/d/1A815Q_cjXGstq_SLGXmo5flKtk4bNfnB/view?usp=sharing)**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/jonathansilvadesa-sys" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="jonathansilvadesa-sys" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jonathan-de-sa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jonathan-de-sa" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/azure" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=azure" alt="azure" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/oracle" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a></p>
+
