@@ -1,22 +1,22 @@
-# Hi 👋, I'm Jonathan Silva de Sá
+# Ola 👋, Sou Jonathan Silva de Sá
 
 ### Analista de Dados focado em BI Estratégico — Power BI, DAX, SQL, ETL e Storytelling com Dados
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonathansilvadesa-sys&label=Profile views&color=0e75b6&style=flat" alt="jonathansilvadesa-sys" /> </p>
 
-- 🔭 I'm currently working on **Portifólio de Projétos: https://github.com/jonathansilvadesa-sys**
+- 🔭 Atualmente trabalho com análise e visualização de dados **Portifólio de Projétos: https://github.com/jonathansilvadesa-sys**
 
-- 🌱 I'm currently learning **Databricks, Python, PowerApps e PowerAutomate**
+- 🌱 Atualmente estou aprendendo **Databricks, Python, PowerApps e PowerAutomate**
 
-- 👯 I'm looking to collaborate on **Projetos de Dados que utilize: Power BI (DAX/Power Query), SQL e modelagem estrela, KPIs, ETL, storytelling com dados e governança de indicadores**
+- 👯 Estou procurando oportunidades de colaboração em **Projetos de Dados que utilize: Power BI (DAX/Power Query), SQL e modelagem estrela, KPIs, ETL, storytelling com dados e governança de indicadores**
 
-- 💬 Ask me about **Power BI (DAX/Power Query), SQL e modelagem estrela, KPIs, ETL, storytelling com dados e governança de indicadores**
+- 💬 Me pergunte sobre **Power BI (DAX/Power Query), SQL e modelagem estrela, KPIs, ETL, storytelling com dados e governança de indicadores**
 
-- 📫 How to reach me **jonathansilvadesa@gmail.com**
+- 📫 Você me acha através do e-mail **jonathansilvadesa@gmail.com**
 
-- 👨‍💻 All of my projects are available at **[https://github.com/jonathansilvadesa-sys](https://github.com/jonathansilvadesa-sys)**
+- 👨‍💻 Todos os meus projetos estão disponíveis em **[https://github.com/jonathansilvadesa-sys](https://github.com/jonathansilvadesa-sys)**
 
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1A815Q_cjXGstq_SLGXmo5flKtk4bNfnB/view?usp=sharing](https://drive.google.com/file/d/1A815Q_cjXGstq_SLGXmo5flKtk4bNfnB/view?usp=sharing)**
+- 📄 Conheça minhas experiências **[https://drive.google.com/file/d/1A815Q_cjXGstq_SLGXmo5flKtk4bNfnB/view?usp=sharing](https://drive.google.com/file/d/1A815Q_cjXGstq_SLGXmo5flKtk4bNfnB/view?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
