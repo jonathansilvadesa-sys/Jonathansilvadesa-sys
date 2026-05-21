@@ -28,8 +28,8 @@ Já atuei em setores de energia (**Ipiranga**) e seguros (**Icatu Seguros**), co
 - 🌱 Aprofundando em: **Python para dados · Databricks · Power Automate · PowerApps**
 - 💡 Especialidades: **Power BI · DAX · SSAS · ALM Toolkit · ETL · SQL · Azure**
 - 🤝 Aberto a colaborações em: projetos de BI, análise exploratória, dashboards com dados públicos
-- 📄 Currículo: disponível nos repositórios abaixo
-
+- 📄 Currículo: [disponível nos repositórios abaixo
+](https://drive.google.com/file/d/1xD0VPu44k1HlB_WPfeYNF2WVHlJEcK6m/view?usp=sharing)
 ---
 
 ## 🛠️ Stack Técnica
