@@ -58,9 +58,10 @@ Já atuei nos setores de energia (**Ipiranga**), seguros (**Icatu Seguros**) e i
 
 | Projeto | O que tem hoje | Stack |
 |---------|----------------|-------|
+| [📉 analise-desemprego-uf](https://github.com/jonathansilvadesa-sys/analise-desemprego-uf) | O desemprego caiu em todos os estados? Análise da PNAD Contínua de 2012 a 2026, com tratamento de sazonalidade e storytelling | Python · Pandas · Matplotlib |
+| [🔄 etl-pipeline-dados-abertos](https://github.com/jonathansilvadesa-sys/etl-pipeline-dados-abertos) | Pipeline completo da API do IBGE até um modelo estrela em DuckDB, com validação de qualidade, carga idempotente, 30 testes e CI | Python · Pandas · DuckDB · pytest |
 | [📈 bi-portfolio-powerbi](https://github.com/jonathansilvadesa-sys/bi-portfolio-powerbi) | Scripts de Power Query, medidas DAX e SQL para 3 dashboards com dados públicos (economia, mercado de trabalho e e-commerce) | Power BI · DAX · Power Query · SQL |
 | [📊 analise-dados-publicos-sql](https://github.com/jonathansilvadesa-sys/analise-dados-publicos-sql) | Consultas analíticas sobre o mercado de trabalho (CAGED) com CTEs e window functions | SQL · PostgreSQL |
-| [🔄 etl-pipeline-dados-abertos](https://github.com/jonathansilvadesa-sys/etl-pipeline-dados-abertos) | Extrator em Python para a API do IBGE, com retry e conversão para DataFrame; demais etapas do pipeline em desenvolvimento | Python · Pandas |
 
 ---
 
