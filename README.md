@@ -58,6 +58,7 @@ Já atuei nos setores de energia (**Ipiranga**), seguros (**Icatu Seguros**) e i
 
 | Projeto | O que tem hoje | Stack |
 |---------|----------------|-------|
+| [🤖 automacao-relatorios-parceiros](https://github.com/jonathansilvadesa-sys/automacao-relatorios-parceiros) | Bots em Playwright que exportam relatórios de portais de parceiros, com launcher, validação dos arquivos e testes de ponta a ponta. Versão anonimizada da automação que reduziu uma rotina diária de ~3h para ~1h30 | Python · Playwright · Pandas · pytest |
 | [📉 analise-desemprego-uf](https://github.com/jonathansilvadesa-sys/analise-desemprego-uf) | O desemprego caiu em todos os estados? Análise da PNAD Contínua de 2012 a 2026, com tratamento de sazonalidade e storytelling | Python · Pandas · Matplotlib |
 | [🔄 etl-pipeline-dados-abertos](https://github.com/jonathansilvadesa-sys/etl-pipeline-dados-abertos) | Pipeline completo da API do IBGE até um modelo estrela em DuckDB, com validação de qualidade, carga idempotente, 30 testes e CI | Python · Pandas · DuckDB · pytest |
 | [📈 bi-portfolio-powerbi](https://github.com/jonathansilvadesa-sys/bi-portfolio-powerbi) | Scripts de Power Query, medidas DAX e SQL para 3 dashboards com dados públicos (economia, mercado de trabalho e e-commerce) | Power BI · DAX · Power Query · SQL |
